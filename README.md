@@ -10,8 +10,8 @@
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, C, JavaScript, C#, SQL, Bash
-- **Tools/Libraries:** Git, Node.js, OpenAI, Pandas, Langchain, Llama Index, Sentence Transformers, MongoDB
+- **Languages:** Python, Java, C, JavaScript, SQL, Bash
+- **Tools/Libraries:** Git, Node.js, OpenAI, Langchain, Llama Index, Sentence Transformers, MongoDB
 
 ## 🏂 Hobbies
 
