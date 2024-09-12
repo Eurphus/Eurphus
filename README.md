@@ -5,8 +5,8 @@
 ## 💡 Projects I've done
 
 - 📚 Turning thousands of PDFs into searchable vectors with my PDF Vectorization tool.
-- 📈 Automating cryptocurrency trades with a smart trading bot that's also a Discord chatbot.
-- ♟️ Bringing chess to life with a JavaFX-based GUI for those **intense** two-player matches.
+- 📈 Automating cryptocurrency trades with a trailing stop loss rebuy strategy that's also a Discord chatbot.
+- ♟️ Bringing chess to life with a JavaFX-based GUI for those **nutty** two-player matches.
 
 ## 🛠️ Skills & Tools
 
@@ -15,7 +15,7 @@
 
 ## 🏂 Hobbies
 
-When I'm not coding or conquering the business world, you'll find me lifting rocks 🏋️, climbing rocks 🧗 or rocking out on the guitar 🎸.
+When I'm not coding or studying, you'll find me lifting rocks 🏋️, climbing rocks 🧗 or rocking out on the guitar 🎸.
 
 ## 📫 Get In Touch
 
