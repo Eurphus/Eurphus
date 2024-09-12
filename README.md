@@ -22,4 +22,3 @@ When I'm not coding or studying, you'll find me lifting rocks 🏋️, climbing 
 Whether you're interested in collaborating on a project, sharing ideas, or just want to say hi, feel free to reach out!
 
 - 🔗 LinkedIn: [linkedin.com/in/peter-mac13](https://linkedin.com/in/peter-mac13)
-- 🔗 Instagram: [@peter.mac_](https://www.instagram.com/peter.mac_/)
