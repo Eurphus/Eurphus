@@ -6,12 +6,13 @@
 
 - 📚 Turning thousands of PDFs into searchable vectors with my PDF Vectorization tool.
 - 📈 Automating cryptocurrency trades with a trailing stop loss rebuy strategy that's also a Discord chatbot.
-- ♟️ Bringing chess to life with a JavaFX-based GUI for those **nutty** two-player matches.
+- ♟️ Bringing chess to life with a JavaFX-based GUI for those **insane** two-player matches.
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, Java, C, JavaScript, SQL, Bash
-- **Tools/Libraries:** Git, Node.js, OpenAI, Langchain, Llama Index, Sentence Transformers, MongoDB
+- **Languages:** Python, Java, C/C++, TypeScript, JavaScript, SQL, Bash, HTML/CSS
+- **Libraries and Frameworks:** Node.js, OpenAI, Langchain, Llama Index, Sentence Transformers, MongoDB, React, TailwindCSS, Next.js
+- **Tools:** Git, Linux, MongoDB, Oracle SQL, Docker
 
 ## 🏂 Hobbies
 
